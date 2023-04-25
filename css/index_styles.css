@@ -1,0 +1,63 @@
+/* 
+font-family: 'Caveat', cursive;
+font-family: 'Montserrat', sans-serif;
+*/
+
+body {
+    background-image: url("/images/background.jpg");
+    background-repeat: no-repeat;
+    color:black;
+}
+
+#login_title {
+    font-family: 'Caveat', cursive;
+    font-size: 3em;
+    font-weight: bold;
+    color:black;
+}
+
+#login_subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    color:black;
+}
+
+#login_logo {
+    font-size: 50px;
+    color:coral;
+}
+
+#login_form {
+    max-width: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    width: 100%;
+    padding: 15px;
+}
+
+#login_footer{
+    color: floralwhite;
+    margin: 0px;
+}
+
+.form-control {
+    margin-top: 15px;
+}
+
+.footer_icon {
+    font-size: 20px;
+    color: floralwhite;
+    margin-right: 5px;
+}
+
+.footer_logo {
+    font-size: 20px;
+    color: coral;
+    margin-right: 5px;
+}
+
+.button_margin {
+    margin-top: 15px;
+}
